@@ -1,0 +1,3 @@
+Example text file for S3 exercise.
+Added the second line.
+Added the third line.
