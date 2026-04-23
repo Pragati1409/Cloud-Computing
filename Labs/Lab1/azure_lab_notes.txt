@@ -1,0 +1,8 @@
+Azure Lab Notes
+
+- Created VM in Azure (Ubuntu 22.04/24.04)
+- Configured SSH inbound rule (port 22)
+- Configured RDP inbound rule (port 3389)
+- Installed xfce4 + xrdp for GUI login
+- Enabled Insights monitoring
+- Reminder: Always STOP (deallocate) the VM in Azure Portal to save credits.
